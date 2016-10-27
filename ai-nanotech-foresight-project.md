@@ -5,11 +5,11 @@ in Palo Alto CA in September 2016, a team of participants proposed a project to 
 nanotechnology-related data among nanotechnology researchers, machine learning experts and other interested parties.
 
 The proposal won a prize from the Foresight Institute (as judged by Deepak Srivastava, Bill Goddard, and Ben Goertzel),
-tookn 2nd place,
-closely behind the winning team, in the "People's Choice" award.  It was all relatively informal, but this is
+and took 2nd place,
+closely behind the winning team, in the "People's Choice" award.  It was all relatively informal, but this
 suggests some widespread interest in the ideas among practitioners.
 
-Here is the project proposal sumbmission for the record.
+Here is the project proposal submission for the record.
 
 ##Project name
 ***Data standards for collaborative nano science and AI***
